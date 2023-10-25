@@ -1,1 +1,1 @@
-export const serviceURL = "http://localhost:4000"
+export const serviceURL = "https://crudappserver-x2ux.onrender.com"
